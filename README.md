@@ -5,7 +5,7 @@ It allows users to create and customize their resumes easily using a user-friend
 
 ## Features
 
-**User-friendly Interface**
-**Real-time Preview**
-**Downloadable Resume**
-**Responsive Design**
+**User-friendly Interface**: Insta-Resume provides an easy to use interface
+**Real-time Preview**: Changes made to the resume are reflected in real-time
+**Downloadable Resume**: Users can download their completed resume in PDF format
+**Responsive Design**: The application is responsive
